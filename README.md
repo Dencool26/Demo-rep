@@ -5,4 +5,4 @@ Some Description!
 
 ## Subheader
 
-Some text 
+Some text!
